@@ -12,9 +12,8 @@ Setup Local Environment:
 * Then run this `pip install python-telegram-bot --upgrade`.
 * Go to root directory of the cloned repository, and open `secrets.sh` via Text Editor.
 * Replace `<your-openai-api-key-gere>` and `<your-telegram-bot-token>` with your own.
-* Now, open your Terminal in the root directory, where `chatgpt_bot.py` and `secrets.sh` were saved.
-* In terminal, run `source ./secrets.sh`.
-* In terminal still, run `python3 chatgpt_bot`.
+* Now, open your Terminal in the root directory, where `chatgpt_bot.py` and `run.sh` were saved.
+* In terminal, run `source ./run.sh`.
 * If you didn't recieve any error, and you see something like this: `XXXX-XX-XX - telegram.ext._application - INFO - Application started`.
 * The bot is now live, so ask a question.
 * Ctrl+C to stop it from running.
