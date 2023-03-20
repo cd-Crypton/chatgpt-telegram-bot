@@ -8,7 +8,7 @@ Setup Bot and OpenAI:
 * Clone this repository to get `chatgpt_bot.py` and `run.sh`.
 
 Setup Local Environment:
-* Do `sudo apt-get install python3` (or depends on your OS how, just make sure it has python installed), skip this if part if you already have.
+* Do `sudo apt-get install python3-pip` (or depends on your OS how, just make sure it has python installed), skip this if part if you already have.
 * Then run this `pip install python-telegram-bot --upgrade`.
 * Go to root directory of the cloned repository, and open `run.sh` via Text Editor.
 * Replace `<your-openai-api-key-gere>` and `<your-telegram-bot-token>` with your own.
