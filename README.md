@@ -21,3 +21,8 @@ Setup Local Environment:
 Since this is a local setup, once you close the terminal, the bot will not be able to answer your question anymore. You can publish it via server, or via other means. At this point, it's now up to you.
 
 This script was also published in Replit: [ChatGPT Telegram Bot - Replit](https://replit.com/@CarloDee/ChatGPT-Telegram-Bot)
+
+## Credits
+* OpenAI (ChatGPT) - https://platform.openai.com
+* Python-Telegram-Bot - https://github.com/python-telegram-bot
+* Telegram (Bot API Token) - https://core.telegram.org/
